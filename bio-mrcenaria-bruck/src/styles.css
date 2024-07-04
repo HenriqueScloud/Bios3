@@ -30,8 +30,8 @@ h1 {
 }
 
 .apresentacao .overlay {
-  position: absolute;
-  top: 65vh;
+  position: fixed;
+  top: 60%;
   background: url("/bio-mrcenaria-bruck/src/assets/icones/logo-marcenaria1.jpg") no-repeat bottom center;
   background-size: cover;
   height: 8.25rem;
@@ -49,7 +49,7 @@ h1 {
   margin: -10px;
   background-color: rgba(0, 0, 0, 0.241);
   height: 100vh;
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-align: center;
   position: relative;
   width: 100vw;
