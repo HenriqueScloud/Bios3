@@ -7,7 +7,7 @@
 
 body {
   height: 100vh;
-  background: url("/bio-mrcenaria-bruck/src/assets/icones/banner1.jpg") no-repeat top center;
+  background: url("./assets/icones/banner1.jpg") no-repeat top center;
   background-size: cover;
   background-attachment: fixed;
   font-family: "Arsenal SC";
@@ -33,7 +33,7 @@ h1 {
   position: absolute;
   top: -15%;
   left: 50%;
-  background: url("/bio-mrcenaria-bruck/src/assets/icones/logo-marcenaria1.jpg") no-repeat bottom center;
+  background: url("./assets/icones/logo-marcenaria1.jpg") no-repeat bottom center;
   background-size: cover;
   height: 8.25rem;
   width: 8.25rem;
