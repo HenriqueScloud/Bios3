@@ -30,7 +30,6 @@ h1 {
 }
 
 .links .overlay {
-  border: 1px solid red;
   position: absolute;
   top: -15%;
   left: 50%;
